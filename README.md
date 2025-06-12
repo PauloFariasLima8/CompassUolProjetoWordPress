@@ -212,7 +212,7 @@ Após o deploy, acesse o Load Balancer pelo navegador:
 http://<DNS_DO_LOAD_BALANCER>
 ```
 
-Siga o assistente do WordPress para finalizar a configuração.
+Iniciar o assistente do WordPress para finalizar a configuração e realizar os testes.
 
 ---
 
